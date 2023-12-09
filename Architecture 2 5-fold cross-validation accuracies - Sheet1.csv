@@ -1,0 +1,7 @@
+Number of units,Number of epochs,5-fold cross-validation accuracy
+1,5,41.08861268
+1,10,41.25822127
+2,5,40.32883346
+2,10,37.55797803
+3,5,32.91969493
+3,10,40.169608
