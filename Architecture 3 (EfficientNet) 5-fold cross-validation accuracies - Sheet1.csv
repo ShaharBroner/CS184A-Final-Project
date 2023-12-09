@@ -1,0 +1,5 @@
+Model version,5-fold cross-validation accuracy
+EfficientNetB0,33.82139117
+EfficientNetB7,41.26168311
+EfficientNetV2B0,41.25995159
+EfficientNetV3B0,38.83523643
